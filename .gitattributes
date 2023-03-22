@@ -1,0 +1,7 @@
+* -text
+*.md text
+*.txt text
+.gitattributes text
+.gitignore text
+vendor/Chapter5/Diorama_001.ztl filter=lfs diff=lfs merge=lfs -text
+vendor/Chapter10/Alien_Posed.ztl filter=lfs diff=lfs merge=lfs -text
