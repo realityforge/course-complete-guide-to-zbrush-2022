@@ -1,2 +1,6 @@
 /.idea
 /tmp
+
+# Assets fetched from a release to avoid having to use LFS
+vendor/Chapter10/Alien_Posed.ztl
+vendor/Chapter5/Diorama_001.ztl
